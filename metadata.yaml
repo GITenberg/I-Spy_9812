@@ -1,0 +1,29 @@
+_repo: I-Spy_9812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Natalie Sumner
+    birthdate: 1881
+    deathdate: 1935
+    gutenberg_agent_id: '711'
+    url: http://www.gutenberg.org/2009/agents/711
+description: '"The allied forces, English and French, had been bent backward day by
+  day, until it seemed as if Paris was farily within the Germans'' grasp. Bent indeed,
+  but never broken, and with the turning of the tide the Allied line had rushed forward,
+  and France breathed again"--Distributor''s website.'
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Washington (D.C.) -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Spy stories'
+- GITenberg
+title: I Spy
+url: http://www.gutenberg.org/ebooks/9812
