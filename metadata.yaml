@@ -1,5 +1,8 @@
 _repo: I-Spy_9812
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lincoln, Natalie Sumner
@@ -11,6 +14,8 @@ description: '"The allied forces, English and French, had been bent backward day
   day, until it seemed as if Paris was farily within the Germans'' grasp. Bent indeed,
   but never broken, and with the turning of the tide the Allied line had rushed forward,
   and France breathed again"--Distributor''s website.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9812#I-Spy
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
